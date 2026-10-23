@@ -1,0 +1,5 @@
+CommonRate demo, captured 23 October 2026
+
+This captioned video is an edited sequence of actual screenshots captured through the cloud browser from https://commonrate-arc-lab.woodsyowlet258.chatgpt.site/ . It is not a continuous live screen recording. Screens show real UI interactions: open ten-seat simulation, advance to deadline, simulate settlement, inspect receipt, choose seven-seat failed scenario, and open the separate experimental Live screen. Captions and presentation framing were added; the app UI was not fabricated.
+
+All payment outcomes shown are Sandbox simulations. No wallet was connected, no real funds moved and no transaction was submitted. The experimental Live section is shown read-only. Mainnet deployment and transaction proof are pending. No Studio source, private account details or credentials appear.

@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.000
+CommonRate explores conditional group payments for a fixed-fee expert session.
+
+00:00:09.000 --> 00:00:18.000
+Ten seats share a 600 USDC fee. Sponsor support lowers each seat’s cost to 45 USDC.
+
+00:00:18.000 --> 00:00:26.000
+Advancing the simulated deadline enables settlement. No money moves here.
+
+00:00:26.000 --> 00:00:34.000
+Settlement records a simulated refund credit. Claiming is a separate action.
+
+00:00:34.000 --> 00:00:44.000
+The receipt shows the original deposit, final cost and remaining credit together.
+
+00:00:44.000 --> 00:00:53.000
+In this failed-round example, two seats’ full 120 USDC deposit becomes claimable.
+
+00:00:53.000 --> 00:01:02.000
+The experimental Live screen is separate, unaudited and not a production checkout.
+
+00:01:02.000 --> 00:01:12.000
+This walkthrough demonstrates the UI, not an onchain deployment or transaction.
